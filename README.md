@@ -1,5 +1,6 @@
 # Code
-#include <iostream>
+
+// #include <iostream>
 // to use sting datatype and its inbuilt function 
 #include<string.h>
 using namespace std;
