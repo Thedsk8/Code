@@ -1,7 +1,3 @@
-# Instruction to compile
-Use C++ compiler to compile the code
-
-
 # Code
 #include <iostream>
 // to use sting datatype and its inbuilt function 
